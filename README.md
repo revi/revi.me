@@ -1,3 +1,3 @@
-# www.revi.pe.kr
+# www.me
 
-Revi's website. Issues to [Phabricator](http://revi.ml) please. 
+Revi's website. Issues to [Phabricator](https://phab.revi.ml) please. 
