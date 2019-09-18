@@ -1,55 +1,56 @@
 ==================================================================
-https://keybase.io/reviwm
+https://keybase.io/revi
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://revi.me
-  * I am reviwm (https://keybase.io/reviwm) on keybase.
-  * I have a public key ASDww4feJppw3DJRlDrRaIyvRwu_cHX0jyYOudhINNugTgo
+  * I am revi (https://keybase.io/revi) on keybase.
+  * I have a public key ASA4DEMr7M38ObgxWrdpBYtvfgIuJFOx0hgQTclJ-88SOQo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0101464af5628a810f53108b9af88820c11b6ac2d8e124643312b22425a5e2fdac220a",
+      "eldest_kid": "0120380c432beccdfc39b8315ab769058b6f7e022e2453b1d218104dc949fbcf12390a",
       "host": "keybase.io",
-      "kid": "0120f0c387de269a70dc3251943ad1688caf470bbf7075f48f260eb9d84834dba04e0a",
-      "uid": "0e8d05f6b1e737dce18d37c8b9f21600",
-      "username": "reviwm"
+      "kid": "0120380c432beccdfc39b8315ab769058b6f7e022e2453b1d218104dc949fbcf12390a",
+      "uid": "457e48d1090c09259596fae1e125b300",
+      "username": "revi"
     },
     "merkle_root": {
-      "ctime": 1520247869,
-      "hash": "3ea0b3810a9cd334184c4452ac064d7327b4d4586fe1e2ad5aebb1e2a5f6a9c0c02ea7bb9ed5c35d46926c61b92dd18dcf4c00b224e5e2065b225837d391e589",
-      "hash_meta": "02060a5d01f98cd68c9dde6bfc8ea43cab88e401d5607300d0ab43f4ffab9b74",
-      "seqno": 2185430
+      "ctime": 1568818829,
+      "hash": "368a0d20cb4c85d0941d5c381ec7cb48a3758842ae51587822a2f52fd1680a33c7cc5951267431d25578865a508edfe7258750eb457ca5c61f7ae2a8804f1f66",
+      "hash_meta": "fc1c4f6b033ab309b6674e253c537a89de20d293a2eefbf667391e9a756cd0d4",
+      "seqno": 7564751
     },
     "service": {
+      "entropy": "F13NqH6YPYoGiD8HOh4D9Xqj",
       "hostname": "revi.me",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.44"
+    "version": "4.4.2"
   },
-  "ctime": 1520247893,
+  "ctime": 1568818844,
   "expire_in": 504576000,
-  "prev": "dbf38b68e65a7d1acc318e6b5e665c3f6696be0c5479b40a7600d2e6ea178022",
-  "seqno": 142,
+  "prev": "7c1ea4a8d2d7f0962775cfc66bbdb75b78cbc1b56b21028aa50eb234fe4e078c",
+  "seqno": 85,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8MOH3iaacNwyUZQ60WiMr0cLv3B19I8mDrnYSDTboE4Kp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNDY0YWY1NjI4YTgxMGY1MzEwOGI5YWY4ODgyMGMxMWI2YWMyZDhlMTI0NjQzMzEyYjIyNDI1YTVlMmZkYWMyMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjBjMzg3ZGUyNjlhNzBkYzMyNTE5NDNhZDE2ODhjYWY0NzBiYmY3MDc1ZjQ4ZjI2MGViOWQ4NDgzNGRiYTA0ZTBhIiwidWlkIjoiMGU4ZDA1ZjZiMWU3MzdkY2UxOGQzN2M4YjlmMjE2MDAiLCJ1c2VybmFtZSI6InJldml3bSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMDI0Nzg2OSwiaGFzaCI6IjNlYTBiMzgxMGE5Y2QzMzQxODRjNDQ1MmFjMDY0ZDczMjdiNGQ0NTg2ZmUxZTJhZDVhZWJiMWUyYTVmNmE5YzBjMDJlYTdiYjllZDVjMzVkNDY5MjZjNjFiOTJkZDE4ZGNmNGMwMGIyMjRlNWUyMDY1YjIyNTgzN2QzOTFlNTg5IiwiaGFzaF9tZXRhIjoiMDIwNjBhNWQwMWY5OGNkNjhjOWRkZTZiZmM4ZWE0M2NhYjg4ZTQwMWQ1NjA3MzAwZDBhYjQzZjRmZmFiOWI3NCIsInNlcW5vIjoyMTg1NDMwfSwic2VydmljZSI6eyJob3N0bmFtZSI6InJldmkubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NCJ9LCJjdGltZSI6MTUyMDI0Nzg5MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkYmYzOGI2OGU2NWE3ZDFhY2MzMThlNmI1ZTY2NWMzZjY2OTZiZTBjNTQ3OWI0MGE3NjAwZDJlNmVhMTc4MDIyIiwic2Vxbm8iOjE0MiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECal0nxVaTQRgpDJP5zD/f4zQdEMXaslLl7+nSnZ3xlnT4SnVPllPfOArPvpaCi4JJX0Q+vOnEl3b9sy+2ZMe4KqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgHnJ3ozNXztFL6gsvKYhBCwavuhKCmAgFWn3cmpxfJX6jdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOAxDK+zN/Dm4MVq3aQWLb34CLiRTsdIYEE3JSfvPEjkKp3BheWxvYWTESpcCVcQgfB6kqNLX8JYndc/Ga723W3jLwbVrIQKKpQ6yNP5OB4zEICWKxzEme9PCWpWXDEevyoPqnz89eUZR7Hby55pBKlXyAgHCo3NpZ8RAxZZ/aq7pvEcI2wV4VvseDSJ5G6whbwHnK+5OPov4v/wMAxe9SrQgz210FIa4Plr/yPbcxm7Xt6qw2/1qSb5xCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAVkGWOkwO5JXMBRuqOnSY9mVyi14LahxFi1c5QIGwmWo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/reviwm
+View my publicly-auditable identity here: https://keybase.io/revi
 
 ==================================================================
